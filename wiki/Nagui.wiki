@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Nagui =
+
+Mac OS X GUI front end for mldonkey.
+
+= Screen shot =
+
+http://nagui-cocoa.googlecode.com/files/screenshot.png
