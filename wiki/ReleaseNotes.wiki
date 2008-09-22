@@ -1,0 +1,7 @@
+= Release Notes =
+
+== r33 ==
+
+  * For first time users, it sets ~/Downloads as incoming files and directories folder.
+  * Set as Incoming Files & Set as Incoming Directories menu works now.
+  * All Files smart folder works now.
