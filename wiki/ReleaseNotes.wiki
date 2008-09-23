@@ -1,6 +1,12 @@
 #labels Featured
 = Release Notes =
 
+== r42 ==
+
+  * You can search with excluding some keywords. Prefix - to excludes that word from the search results.
+    * Example
+      test.avi -zip      (search for test.avi excluding results having zip in name)
+ 
 == r33 ==
 
   * For first time users, it sets ~/Downloads as incoming files and directories folder.
