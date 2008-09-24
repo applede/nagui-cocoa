@@ -1,6 +1,10 @@
 #labels Featured
 = Release Notes =
 
+== r50 ==
+
+  * It checks for newer version and shows alert if there is one.
+
 == r42 ==
 
   * You can search with excluding some keywords. Prefix - to excludes that word from the search results.
