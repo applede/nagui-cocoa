@@ -1,6 +1,10 @@
 #labels Featured
 = Release Notes =
 
+== r68 ==
+
+  * Fixed bug in filtering 'All Files' smart group.
+
 == r50 ==
 
   * It checks for newer version and shows alert if there is one.
