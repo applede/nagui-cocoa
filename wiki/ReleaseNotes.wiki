@@ -1,6 +1,10 @@
 #labels Featured
 = Release Notes =
 
+== r75 ==
+
+ * Fixed bugs in 'Set As Incoming Files'
+
 == r68 ==
 
   * Fixed bug in filtering 'All Files' smart group.
