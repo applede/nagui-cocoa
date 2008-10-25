@@ -1,6 +1,10 @@
 #labels Featured
 = Release Notes =
 
+== r78 ==
+
+ * Added command to adjust sync of smi file.
+
 == r75 ==
 
  * Fixed bugs in 'Set As Incoming Files'
